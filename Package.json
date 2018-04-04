@@ -1,0 +1,14 @@
+{
+  "type": "dpm",
+  "name": "dpm",
+  "version": "0.1",
+  "targetPlatform": [
+    "win"
+  ],
+  "compilerVersion": ">=25",
+  "sources": [
+    "Source"
+  ],
+  "dependency": [
+  ]
+}
